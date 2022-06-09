@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Spring_Boot_Projects\STM_StockTradeManagement\.metadata\.plugins\org.eclipse.jdt.core
+3677688076.index
